@@ -1,6 +1,4 @@
-# SPLab1
-
-# Employee Database Management Program
+# SPLab1: Employee Database Management Program
 
 
 
@@ -19,7 +17,7 @@ Then, open your terminal or command prompt, navigate to this directory, and exec
 
 ```bash
 clang database.c readfile.c -o main
-```bash
+```
 
 Feel free to replace main with any name you prefer for the executable.
 
@@ -27,7 +25,9 @@ Feel free to replace main with any name you prefer for the executable.
 ### Compilation
 After compilation, run the program by providing a data file as a command-line argument:
 
+```bash
 ./main input.txt
+```
 
 Feel free to replace "input.txt" with any file you prefer for the input.
 

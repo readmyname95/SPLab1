@@ -19,7 +19,7 @@ Then, open your terminal or command prompt, navigate to this directory, and exec
 
 ```bash
 clang database.c readfile.c -o main
-
+```bash
 
 Feel free to replace main with any name you prefer for the executable.
 
